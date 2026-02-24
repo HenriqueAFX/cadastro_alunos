@@ -1,0 +1,31 @@
+==================================================================
+CADASTRO
+
+- Nome completo
+- Nota
+- Matricula é a posição no vetor
+
+==================================================================
+CONSULTA
+
+- Mostrar todos os dados dos alunos cadastrados.
+- Se não houver nenhum, dar a devida mensagem.
+
+==================================================================
+ATUALIZAÇÃO DE NOTA
+
+- Modificação de nota.
+- Deve puxar o aluno através da matrícula, avisar se não existir
+com aquela matrícula ou se não houver alunos cadastrados.
+
+==================================================================
+MÉDIA
+
+- Retorna nota média dos alunos cadastrados.
+
+==================================================================
+SAIR
+
+- Exibir mensagem de encerramento do sistema.
+
+==================================================================
